@@ -1,6 +1,6 @@
 - Hi, I’m @ShadowClark.
 - I’m interested in Programming.
-- I’m currently learning about Cross-platform development.
+- I’m currently learning about Cross-platform development, and im learning about javascript.
 - I’m looking to collaborate with people i know or close to.
 
 
