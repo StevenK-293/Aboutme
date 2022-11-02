@@ -3,8 +3,9 @@
 - I’m currently learning about Cross-platform development, and im learning about javascript.
 - I’m looking to collaborate with people i know or close to.
 
-Who i just collabe with: 
-YellowGreg:https://github.com/YellowGreg
+Who i just collabe with:
+
+1. YellowGreg: https://github.com/YellowGreg
 
 
 
