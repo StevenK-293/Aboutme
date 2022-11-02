@@ -1,7 +1,7 @@
-- Hi, I’m @ShadowClark
-- I’m interested in Programming
-- I’m currently learning Javascript
-- I’m looking to collaborate with people i know or close to
+- Hi, I’m @ShadowClark.
+- I’m interested in Programming.
+- I’m currently learning about Cross-platform development.
+- I’m looking to collaborate with people i know or close to.
 
 
 
