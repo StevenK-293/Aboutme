@@ -10,7 +10,7 @@
 2. [Wspboy12](https://github.com/Wspboy12)
 
 
-- 👨‍💻 All of my projects are available at [respitory](respitory)
+- 👨‍💻 All of my projects are available at [respitory](https://github.com/StevenK-293?tab=repositories)
 
 - 💬 Ask me about **Anything**
 
