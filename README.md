@@ -7,6 +7,7 @@
 
 - Im Collabing with:
 1. [YellowGreg](https://github.com/YellowGreg)
+2. [Wspboy12](https://github.com/Wspboy12)
 
 
 - 👨‍💻 All of my projects are available at [respitory](respitory)
