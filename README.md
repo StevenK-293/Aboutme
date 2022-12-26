@@ -6,8 +6,7 @@
 - I’m looking to collaborate with **people i know and close with**
 
 - Im Collabing with:
-1. [YellowGreg](https://github.com/YellowGreg)
-2. [Wspboy12](https://github.com/Wspboy12)
+1. [Wspboy12](https://github.com/Wspboy12)
 
 
 - 👨‍💻 All of my projects are available at [respitory](https://github.com/StevenK-293?tab=repositories)
@@ -16,13 +15,9 @@
 
 - ⚡ Fun fact **I Can Exercise**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <br/>
-
 <img align="left" alt="unity" width="30px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/> 
 <img align="left" alt="lua" width="30px" src="https://user-images.githubusercontent.com/116656099/199559918-bf1278cd-4de2-4a66-9b4c-3ba470ed46cb.svg"/>
 <img align="left" alt="photoshop" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop"/>
@@ -33,7 +28,6 @@
 <img align="left" alt="nodejs" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg"/>
 <img align="left" alt="Linux" width="30px" src="https://user-images.githubusercontent.com/116656099/199559918-bf1278cd-4de2-4a66-9b4c-3ba470ed46cb.svg"/>
-
 <br>
 
 
